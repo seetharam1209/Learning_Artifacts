@@ -61,7 +61,7 @@ public class TestNGIntroduction2 {
 	
 	@BeforeTest
 	public void beforeTest() {
-		System.out.println("This is before test method");
+		System.out.println("This is before creating a branch test method");
 	}
 	
 	
